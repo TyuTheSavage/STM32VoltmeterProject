@@ -1,0 +1,4 @@
+../Core/OS/customOS.c:32:6:delayMe	24	static
+../Core/OS/customOS.c:39:6:SysTick_Handler	8	static
+../Core/OS/customOS.c:45:6:initOS	40	static
+../Core/OS/customOS.c:61:6:runOS	16	static,ignoring_inline_asm

@@ -1,0 +1,3 @@
+../Core/OS/displayTask.c:22:6:animationNoVoltage	3
+../Core/OS/displayTask.c:49:6:drawNeedle	2
+../Core/OS/displayTask.c:84:6:screenHandler	1
